@@ -10,7 +10,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats-t7uo.vercel.app/api?username=laurawkr&theme=tokyonight&show_icons=true&hide_border=true" >
+    <img src="https://github-readme-stats-t7uo-laurawkrs-projects.vercel.app/api?username=laurawkr&theme=tokyonight&show_icons=true&hide_border=true" >
   </p>
 </div>
 
