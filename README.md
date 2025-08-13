@@ -1,7 +1,6 @@
 <h2 align="center">👋 Welcome! I'm Laura</h2>
 
 
-- 🧪 I’m currently working at [Viome](https://www.viome.com/) as a Data Engineer
 - 💬 Ask me about **Archiving Media**
 - 📫 How to reach me: [email](laura@caferacerstudios.com)
 
